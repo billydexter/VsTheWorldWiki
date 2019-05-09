@@ -1,0 +1,72 @@
+.MainTitle
+{
+	font-family:"Cambria";
+	text-align:center;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+.Protagonists
+{
+	background-color: lightgreen;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+.Antagonists
+{
+	background-color: crimson;
+}
+.PadTheSide
+{
+	padding-left: 10%;
+}
+.PadTheRight
+{
+	float:left;
+	width:50%;
+}
+.PadTheSider
+{
+	padding-right: 15%;
+	padding-left: 10%;
+}
+.PadTheLeft
+{
+	padding-right:15%;
+}
+
+.Row:after
+{
+	content:"";
+	display: table;
+	clear:both;
+}
+.Picture
+{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.AlignCenter
+{
+	text-align: center;
+}
+img
+{
+	max-width: 100%;
+}
+.padRightMain
+{
+	padding-right:100px;
+	padding-left:100px;
+}
+.padLeftMain
+{
+	padding-left:10%;
+	padding-right:10%;
+}
+.TitleImage
+{
+	height: 500px;
+	width: 620px;
+}
